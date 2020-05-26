@@ -1,11 +1,9 @@
 name: Bedford Lab Research
 description: Science updates on evolution, epidemiology and immunology from the Bedford lab at the Fred Hutch
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gfhertlein.github.io/kgl_research_lab/"
+baseurl: "/kgl_research_lab" # the subpath of your site, e.g. /blog
+url: "https://gfhertlein.github.io"
 
 markdown: kramdown
-permalink: /:categories/:title/
-future: true
 
 plugins: ['jekyll-twitter-plugin']
 
