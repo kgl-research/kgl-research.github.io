@@ -2,7 +2,7 @@ name: Bedford Lab Research
 description: Science updates on evolution, epidemiology and immunology from the Bedford lab at the Fred Hutch
 url: http://bedford.io
 
-markdown: redcarpet
+
 permalink: /:categories/:title/
 future: true
 
@@ -71,46 +71,4 @@ exclude:
 
 projects:
   - trvrb/coaltrace
-  - trvrb/stem
-  - trvrb/PACT
-  - trvrb/dynamics-practical
-  - trvrb/antigen
-  - trvrb/haplotypes
-  - trvrb/divergence
-  - trvrb/ancestry
-  - trvrb/medium-data
-  - trvrb/flutrace
-  - blab/nextflu
-  - alvason/infectious-pulse
-  - blab/global-migration
-  - trvrb/sismid
-  - trvrb/sctrace
-  - trvrb/phylodynamics-lecture
-  - evogytis/baltic
-  - blab/chikv
-  - blab/yellow-fever
-  - blab/unsampled
-  - nextstrain/fauna
-  - nextstrain/augur
-  - nextstrain/auspice
-  - nextstrain/janus
-  - nextstrain/sacra
-  - nextstrain/cli
-  - nextstrain/nextstrain.org
-  - blab/zika-seq
-  - blab/siv-cst
-  - blab/zika-usvi
-  - blab/mitii
-  - blab/mers-structure
-  - blab/roka
-  - blab/mumps-seq
-  - blab/dengue-antigenic-dynamics
-  - blab/zika-colombia
-  - blab/h3n2-reassortment
-  - blab/genomic-horizon
-  - blab/h5n1-cambodia
-  - nextstrain/ncov
-  - seattleflu/id3c
-  - seattleflu/id3c-customizations
-  - blab/ncov-phylodynamics
-  - blab/ncov-wa-phylodynamics
+  - blab/yellow-fever=
