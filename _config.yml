@@ -1,5 +1,5 @@
-name: Bedford Lab Research
-description: Science updates on evolution, epidemiology and immunology from the Bedford lab at the Fred Hutch
+name: KGL Research Group
+description: KGL Research Group Description
 baseurl: "/kgl_research_lab" # the subpath of your site, e.g. /blog
 url: "https://gfhertlein.github.io"
 
