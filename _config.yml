@@ -1,6 +1,7 @@
 name: Bedford Lab Research
 description: Science updates on evolution, epidemiology and immunology from the Bedford lab at the Fred Hutch
-url: http://bedford.io
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://gfhertlein.github.io/kgl_research_lab/"
 
 markdown: kramdown
 permalink: /:categories/:title/
