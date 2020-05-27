@@ -1,7 +1,9 @@
 name: KGL Research Group
 description: KGL Research Group Description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kgl-research.github.io/"
+url: "https://kgl-research.github.io/"  # the base hostname & protocol for your site
+
+permalink: /:categories/:title/
 
 markdown: kramdown
 
