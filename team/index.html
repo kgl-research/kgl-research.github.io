@@ -5,422 +5,65 @@ categories:
  - team
 ---
 
-<div class="container title-group">
-    
-    <h1 class="special">
-        Meet the team
+<div class="row">
+	<h1 class="special">
+        Meet the Team
     </h1>
-    
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="http://shapelab.github.io//images/logo/favicon.ico?">
-    
-
-    
-
-    
 </div>
 
-        
-        <main>
-            <div class="container" id="team">
-	
-		
-		
-			<div class="row">
-				<div class="col-md-3">
-					<div class="team-member">
-						<div class="team-img">
-							<img src="/images/team/kosa.png" onmouseover="this.src='/images/team/kosa3.png'" onmouseout="this.src='/images/team/kosa.png'" class="team-pic" alt="Kosa GL" />
-						</div>
-						<h3 class="team_name"> Kosa Goucher-Lambert </h3>
-						
-						<p class="team_designation"> Assistant Professor of Mechanical Engineering </p>
-						
-						
-						<p class="social-icons">
-							
-							<a href="mailto:kosa@berkeley.edu.edu" target="_top" title="email"><i class="ion-email"></i></a>
-							
-							
-						</p>
-					</div>
-				</div>
+<div class="bigspacer"></div>
 
-				<div class="col-md-3">
-					<div class="team-member">
-						<div class="team-img">
-							<img src="/team/images/danielDrew.jpg" onmouseover="this.src='/images/team/danielDrew2.jpg'" onmouseout="this.src='/images/team/danielDrew.jpg'" class="team-pic" alt="Daniel Drew" />
-						</div>
-						<h3 class="team_name"> Vivek Rao </h3>
-						
-						<p class="team_designation"> Postdoc </p>
-						
-						
-							<p class="team_text"> does really cool stuff </p>
-						
-						<p class="social-icons">
-							
-								<a href="http://www.danieldrew.me" target="_blank" title="webpage"><i class="ion-document"></i></a>
-							
-							
-								<a href="mailto:dsdrew@stanford.edu" target="_top" title="email"><i class="ion-email"></i></a>
-							
-							
-							
-						</p>
-					</div>
-				</div>
-		
-	
-		
-		
-				<div class="col-md-3">
-					<div class="team-member">
-						<div class="team-img">
-							<img src="/images/team/lawrenceKim.jpg" onmouseover="this.src='/images/team/lawrenceKim2.jpg'" onmouseout="this.src='/images/team/lawrenceKim.jpg'" class="team-pic" alt="Lawrence Kim" />
-						</div>
-						<h3 class="team_name"> Lawrence Kim </h3>
-						
-						<p class="team_designation"> Mechanical Engineering PhD Student </p>
-						
-						
-							<p class="team_text"> swarm user interface </p>
-						
-						<p class="social-icons">
-							
-								<a href="http://www.lhkim.com" target="_blank" title="webpage"><i class="ion-document"></i></a>
-							
-							
-								<a href="mailto:lawkim@stanford.edu" target="_top" title="email"><i class="ion-email"></i></a>
-							
-							
-							
-						</p>
-					</div>
-				</div>
-		
-	
-		
-		
-				<div class="col-md-3">
-					<div class="team-member">
-						<div class="team-img">
-							<img src="/images/team/evanStrasnick.jpg" onmouseover="this.src='/images/team/evanStrasnick2.jpg'" onmouseout="this.src='/images/team/evanStrasnick.jpg'" class="team-pic" alt="Evan Strasnick" />
-						</div>
-						<h3 class="team_name"> Evan Strasnick </h3>
-						
-						<p class="team_designation"> Computer Science PhD Student </p>
-						
-						
-							<p class="team_text"> high res haptics, electronics prototyping </p>
-						
-						<p class="social-icons">
-							
-								<a href="http://cs.stanford.edu/people/estrasni/" target="_blank" title="webpage"><i class="ion-document"></i></a>
-							
-							
-								<a href="mailto:estrasni@stanford.edu" target="_top" title="email"><i class="ion-email"></i></a>
-							
-							
-							
-						</p>
-					</div>
-				</div>
+{% for member in site.categories.team reversed %}
+	{% if member.alumni != true %}
+    {% cycle 'add rows': '<div class="row">', '', '' %}
+		<div class="col-md-3">
+			<div class="team-membe">
+  				<a class="team-img" href="{{ member.url }}">
+    				<img class="team-pic" src="{{ member.image }}">
+  				</a>    
+                <div class="head media-heading">
+                    <a href="{{ member.url }}" class="off">
+                        {{ member.title }}
+                    </a>
+                </div>
+                <p class="team_designation"> 
+                    {{ member.position }}
+                </p>
 			</div>
-		
-	
-		
-		
-			<div class="row">
-				<div class="col-md-3">
-					<div class="team-member">
-						<div class="team-img">
-							<img src="/images/team/alexaSiu.jpg" onmouseover="this.src='/images/team/alexaSiu2.jpg'" onmouseout="this.src='/images/team/alexaSiu.jpg'" class="team-pic" alt="Alexa Siu" />
-						</div>
-						<h3 class="team_name"> Alexa Siu </h3>
-						
-						<p class="team_designation"> Mechanical Engineering PhD Student </p>
-						
-						
-							<p class="team_text"> shape display, education accessibility </p>
-						
-						<p class="social-icons">
-							
-								<a href="http://alexasiu.com" target="_blank" title="webpage"><i class="ion-document"></i></a>
-							
-							
-								<a href="mailto:afsiu@stanford.edu" target="_top" title="email"><i class="ion-email"></i></a>
-							
-							
-							<a href="https://twitter.com/alexafay" target="_blank" title="twitter"><i class="ion-social-twitter-outline"></i></a>
-							
-							
-						</p>
-					</div>
-				</div>
-		
-	
-		
-		
-				<div class="col-md-3">
-					<div class="team-member">
-						<div class="team-img">
-							<img src="/images/team/zachHammond.jpg" onmouseover="this.src='/images/team/zachHammond2.jpg'" onmouseout="this.src='/images/team/zachHammond.jpg'" class="team-pic" alt="Zack Hammond" />
-						</div>
-						<h3 class="team_name"> Zack Hammond </h3>
-						
-						<p class="team_designation"> Mechanical Engineering PhD Student </p>
-						
-						
-							<p class="team_text"> Morphing Mesh </p>
-						
-						<p class="social-icons">
-							
-								<a href="http://www.zhammond.weebly.com/" target="_blank" title="webpage"><i class="ion-document"></i></a>
-							
-							
-								<a href="mailto:zhammond@stanford.edu" target="_top" title="email"><i class="ion-email"></i></a>
-							
-							
-							
-						</p>
-					</div>
-				</div>
-		
-	
-		
-		
-				<div class="col-md-3">
-					<div class="team-member">
-						<div class="team-img">
-							<img src="/images/team/parastooAbtahi.jpg" onmouseover="this.src='/images/team/parastooAbtahi2.jpg'" onmouseout="this.src='/images/team/parastooAbtahi.jpg'" class="team-pic" alt="Parastoo Abtahi" />
-						</div>
-						<h3 class="team_name"> Parastoo Abtahi </h3>
-						
-						<p class="team_designation"> Computer Science PhD Student </p>
-						
-						
-							<p class="team_text"> haptic illusions </p>
-						
-						<p class="social-icons">
-							
-								<a href="http://www.hirundino.com/" target="_blank" title="webpage"><i class="ion-document"></i></a>
-							
-							
-								<a href="mailto:parastoo.abtahi@cs.stanford.edu" target="_top" title="email"><i class="ion-email"></i></a>
-							
-							
-							<a href="https://twitter.com/parastooabtahi" target="_blank" title="twitter"><i class="ion-social-twitter-outline"></i></a>
-							
-							
-							<a href="https://www.linkedin.com/in/parastoo-abtahi-9788ab62" target="_blank" title="linkedin"><i class="ion-social-linkedin-outline"></i></a>
-							
-						</p>
-					</div>
-				</div>
-		
-	
-		
-		
-				<div class="col-md-3">
-					<div class="team-member">
-						<div class="team-img">
-							<img src="/images/team/ericGonzalez.jpg" onmouseover="this.src='/images/team/ericGonzalez2.jpg'" onmouseout="this.src='/images/team/ericGonzalez.jpg'" class="team-pic" alt="Eric Gonzalez" />
-						</div>
-						<h3 class="team_name"> Eric Gonzalez </h3>
-						
-						<p class="team_designation"> Mechanical Engineering PhD Student </p>
-						
-						
-							<p class="team_text"> dynamic shape display </p>
-						
-						<p class="social-icons">
-							
-							
-								<a href="mailto:ejgonz@stanford.edu" target="_top" title="email"><i class="ion-email"></i></a>
-							
-							
-							
-						</p>
-					</div>
-				</div>
-			</div>
-		
-	
-		
-		
-			<div class="row">
-				<div class="col-md-3">
-					<div class="team-member">
-						<div class="team-img">
-							<img src="/images/team/kaiZhang.jpg" onmouseover="this.src='/images/team/kaiZhang2.jpg'" onmouseout="this.src='/images/team/kaiZhang.jpg'" class="team-pic" alt="Kai Zhang" />
-						</div>
-						<h3 class="team_name"> Kai Zhang </h3>
-						
-						<p class="team_designation"> Electrical Engineering PhD Student </p>
-						
-						
-							<p class="team_text"> high resolution shape display </p>
-						
-						<p class="social-icons">
-							
-								<a href="https://scholar.google.com/citations?hl=en&amp;user=NuJ18NQAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" title="webpage"><i class="ion-document"></i></a>
-							
-							
-								<a href="mailto:kzhang3@stanford.edu" target="_top" title="email"><i class="ion-email"></i></a>
-							
-							
-							
-						</p>
-					</div>
-				</div>
-		
-	
-		
-		
-				<div class="col-md-3">
-					<div class="team-member">
-						<div class="team-img">
-							<img src="/images/team/jingyiLi.jpg" onmouseover="this.src='/images/team/jingyiLi2.jpg'" onmouseout="this.src='/images/team/jingyiLi.jpg'" class="team-pic" alt="Jingyi Li" />
-						</div>
-						<h3 class="team_name"> Jingyi Li </h3>
-						
-						<p class="team_designation"> Computer Science PhD Student </p>
-						
-						
-							<p class="team_text"> creativity tools </p>
-						
-						<p class="social-icons">
-							
-								<a href="http://www.jingyi.me/" target="_blank" title="webpage"><i class="ion-document"></i></a>
-							
-							
-								<a href="mailto:jingyili@cs.stanford.edu" target="_top" title="email"><i class="ion-email"></i></a>
-							
-							
-							<a href="https://twitter.com/jingyeezy" target="_blank" title="twitter"><i class="ion-social-twitter-outline"></i></a>
-							
-							
-						</p>
-					</div>
-				</div>
-		
-	
-		
-		
-				<div class="col-md-3">
-					<div class="team-member">
-						<div class="team-img">
-							<img src="/images/team/elyseChase.jpg" onmouseover="this.src='/images/team/elyseChase.jpg'" onmouseout="this.src='/images/team/elyseChase.jpg'" class="team-pic" alt="Elyse Chase" />
-						</div>
-						<h3 class="team_name"> Elyse Chase </h3>
-						
-						<p class="team_designation"> Mechanical Engineering PhD Student </p>
-						
-						
-							<p class="team_text"> emotive devices </p>
-						
-						<p class="social-icons">
-							
-								<a href="https://www.elysechase.com" target="_blank" title="webpage"><i class="ion-document"></i></a>
-							
-							
-								<a href="mailto:elysec@stanford.edu" target="_top" title="email"><i class="ion-email"></i></a>
-							
-							
-							
-						</p>
-					</div>
-				</div>
-		
-	
-		
-		
-				<div class="col-md-3">
-					<div class="team-member">
-						<div class="team-img">
-							<img src="/images/team/abenaBoadi-Agyemang.jpg" onmouseover="this.src='/images/team/abenaBoadi-Agyemang2.jpg'" onmouseout="this.src='/images/team/abenaBoadi-Agyemang.jpg'" class="team-pic" alt="Abena Boadi-Agyemang" />
-						</div>
-						<h3 class="team_name"> Abena Boadi-Agyemang </h3>
-						
-						<p class="team_designation"> Mechanical Engineering Undergraduate Student </p>
-						
-						
-							<p class="team_text"> haptic oscilloscope </p>
-						
-						<p class="social-icons">
-							
-							
-								<a href="mailto:aboadi98@stanford.edu" target="_top" title="email"><i class="ion-email"></i></a>
-							
-							
-							
-						</p>
-					</div>
-				</div>
-			</div>
-		
-	
-		
-		
-			<div class="row">
-				<div class="col-md-3">
-					<div class="team-member">
-						<div class="team-img">
-							<img src="/images/team/reneeChao.jpg" onmouseover="this.src='/images/team/reneeChao2.jpg'" onmouseout="this.src='/images/team/reneeChao.jpg'" class="team-pic" alt="Renée Chao" />
-						</div>
-						<h3 class="team_name"> Renée Chao </h3>
-						
-						<p class="team_designation"> Design Program Administrator </p>
-						
-						
-						<p class="social-icons">
-							
-							
-							
-							
-						</p>
-					</div>
-				</div>
-		
-	
-		
-		
-				<div class="col-md-3">
-					<div class="team-member">
-						<div class="team-img">
-							<img src="/images/team/andreaBrand-Sanchez.jpg" onmouseover="this.src='/images/team/andreaBrand-Sanchez2.jpg'" onmouseout="this.src='/images/team/andreaBrand-Sanchez.jpg'" class="team-pic" alt="Andrea Brand-Sanchez" />
-						</div>
-						<h3 class="team_name"> Andrea Brand-Sanchez </h3>
-						
-						<p class="team_designation"> Administrative Assistant </p>
-						
-						
-						<p class="social-icons">
-							
-							
-							
-							
-						</p>
-					</div>
-				</div>
-		
-	
-</div>
-
-<h1 class="special">
-    <a href="/alumni/">Alumni</a>
-</h1>
-</div>
-
-        </main>
-
-    <footer class="site-footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <p class="text-muted">University of California, Berkeley -- Department of Mechanical Engineering</p>
-            </div>
+			<div class="bigspacer"></div>
+			<div class="bigspacer"></div>
         </div>
-    </div>
-</footer>
+    {% cycle 'close rows': '', '', '</div>' %}
+    {% endif %}
+{% endfor %}
+{% cycle 'close rows': '', '</div>', '</div>' %}
+
+<div class="row">
+	<h1 class="special">
+        Past Members
+    </h1>
+</div>
+
+<div class="bigspacer"></div>
+
+{% for member in site.categories.team reversed %}
+	{% if member.alumni == true %}
+    {% cycle 'add rows 2': '<div class="row">', '', '' %}
+		<div class="col-md-4 memberbox">
+			<div class="media">
+  				<!--
+  				<a class="pull-left" href="{{ member.url }}">
+    				<img width=160 class="media-object" src="{{ member.image }}">
+  				</a>
+  				-->
+ 			 	<div class="media-body">
+    				<div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+    				<p class="note">{{ member.position }}</p>
+  				</div>
+			</div>
+			<div class="bigspacer"></div>
+        </div>
+    {% cycle 'close rows 2': '', '', '</div>' %}
+    {% endif %}
+{% endfor %}
+{% cycle 'close rows 2': '', '</div>', '</div>' %}
