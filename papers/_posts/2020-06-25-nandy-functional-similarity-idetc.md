@@ -6,6 +6,7 @@ authors: Ananya Nandy, Andy Dong, and Kosa Goucher-Lambert.
 year: 2020
 ref: Ananya Nandy, Andy Dong, and Kosa Goucher-Lambert. ASME IDETC 2020.
 journal: Proceedings of the ASME International Design Engineering Technical Conferences (2020).
+pdf: /pdfs/papers/nandy-functional-sim-measures.pdf
 ---
 
 # Abstract
