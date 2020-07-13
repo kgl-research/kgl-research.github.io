@@ -7986,6 +7986,9 @@ blockquote p {
 
 .team-member .team-img img {
     opacity: 1.0
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
 }
 
 .team-member .team-img {
@@ -7993,7 +7996,7 @@ blockquote p {
 }
 
 .team-member .team-img .team-pic {
-    width: 100%
+    width: 100%;
 }
 
 .team-member .team_designation {
