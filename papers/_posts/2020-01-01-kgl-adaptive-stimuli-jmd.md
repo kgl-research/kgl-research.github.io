@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Adaptive Inspirational Design Stimuli: Using Design Output to Computationally Search for Stimuli that Impact Concept Generation
+title: Adaptive Inspirational Design Stimuli Using Design Output to Computationally Search for Stimuli that Impact Concept Generation
 image: /images/papers/2020-JMD-adaptive-stimuli.png
 authors: Kosa Goucher-Lambert, Josh Gyory, Ken Kotovsky, and Jon Cagan.
 ref: Goucher-Lambert, Gyory, Kotovsky, and Cagan. JMD 2020
