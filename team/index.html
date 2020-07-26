@@ -6,9 +6,11 @@ categories:
 ---
 
 <div class="row">
-	<h1 class="special">
-        Meet the Team
-    </h1>
+	<div class="col-md-12">
+		<div class="title">
+			Current members
+		</div>
+	</div>
 </div>
 
 <div class="bigspacer"></div>
@@ -16,19 +18,15 @@ categories:
 {% for member in site.categories.team reversed %}
 	{% if member.alumni != true %}
     {% cycle 'add rows': '<div class="row">', '', '' %}
-		<div class="col-md-3">
-			<div class="team-member">
-  				<a class="team-img" href="{{ member.url }}">
-    				<img class="team-pic" src="{{ member.image }}">
-  				</a>    
-                <div class="head media-heading">
-                    <a href="{{ member.url }}" class="off">
-                        {{ member.title }}
-                    </a>
-                </div>
-                <p class="team_designation"> 
-                    {{ member.position }}
-                </p>
+		<div class="col-md-4 memberbox">
+			<div class="media">
+  				<a class="pull-left" href="{{ member.url }}">
+    				<img width=160 class="media-object" src="{{ member.image }}">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+    				<p class="note">{{ member.position }}</p>
+  				</div>
 			</div>
 			<div class="bigspacer"></div>
 			<div class="bigspacer"></div>
@@ -39,9 +37,11 @@ categories:
 {% cycle 'close rows': '', '</div>', '</div>' %}
 
 <div class="row">
-	<h1 class="special">
-        Past Members
-    </h1>
+	<div class="col-md-12">
+		<div class="title">
+			Past members
+		</div>
+	</div>
 </div>
 
 <div class="bigspacer"></div>
