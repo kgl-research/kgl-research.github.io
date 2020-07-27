@@ -1,4 +1,4 @@
-# bedford lab research
+# Co-Design Lab Research Website
 
 ## Build site
 
