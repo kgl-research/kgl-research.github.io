@@ -1,7 +1,7 @@
 ---
 layout: member
 title: George Moore
-position: PhD student
+position: PhD candidate
 handle: george
 email: george_moore@berkeley.edu
 image: /images/team/george-moore.jpg
