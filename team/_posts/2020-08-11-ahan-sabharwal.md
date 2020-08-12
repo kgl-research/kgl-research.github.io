@@ -5,7 +5,7 @@ position: Undergraduate Student
 handle: Ahan
 email: ahan.sabharwal@berkeley.edu
 twitter: AhanSabharwal
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/ahan-sabharwal/)
+linkedin: [LinkedIn](https://www.linkedin.com/in/ahan-sabharwal/)
 image: /images/team/ahan-sabharwal.jpg
 ---
 
