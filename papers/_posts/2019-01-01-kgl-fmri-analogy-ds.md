@@ -4,7 +4,7 @@ title: A neuroimaging investigation of design ideation with and without inspirat
 image: /images/papers/2019-DS-fMRI.jpg
 authors: Goucher-Lambert K, Moss J, and Cagan J.
 year: 2019
-ref: Goucher-Lambert et al. 2019. Design Studies.
+ref: Goucher-Lambert et al. <i>Design Studies</i> 2019.
 journal: "Design Studies 60: 1-38."
 pdf: /pdfs/papers/kgl-fmri-analogy-ds.pdf
 doi: 10.1016/j.destud.2018.07.001 
