@@ -3,7 +3,7 @@ layout: paper
 title: A Comparison of Vector and Network-based Measures for Assessing Design Similarity
 image: /images/papers/2020-IDETC-functional-similarity.png
 authors: Nandy A, Dong A, and Goucher-Lambert K.
-ref: Nandy, Dong, and Goucher-Lambert. <i>ASME IDETC</i> 2020.
+ref: Nandy, Dong, and Goucher-Lambert. <i>ASME IDETC</i> 2020
 journal: Proceedings of the ASME International Design Engineering Technical Conferences (2020).
 pdf: /pdfs/papers/nandy-functional-sim-measures.pdf
 ---
