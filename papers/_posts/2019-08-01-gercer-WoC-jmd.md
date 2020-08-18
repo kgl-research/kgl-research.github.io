@@ -2,7 +2,7 @@
 layout: paper
 title: Wisdom of Micro-Crowds in Evaluating Solutions to Esoteric Engineering Problems
 image: /images/papers/2020-JMD-WoC.png
-authors: Nurcan Gercer Ulu, Michael Messersmith, Kosa Goucher-Lambert, Jon Cagan, and Burak Kara.
+authors: Gercer Ulu N, Messersmith M, Goucher-Lambert K, Cagan J, and Kara LB.
 ref: Gercer Ulu et al. JMD 2019
 journal: Journal of Mechanical Design 141 (8) (2019).
 pdf: /pdfs/papers/gercer-WoC-jmd.pdf
