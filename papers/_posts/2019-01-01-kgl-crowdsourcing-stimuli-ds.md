@@ -2,7 +2,7 @@
 layout: paper
 title: Crowdsourcing Inspiration - Using crowd generated inspirational stimuli to support designer ideation
 image: /images/papers/kgl-crowdsourcing-designstudies.jpg
-authors: Goucher-Lambert, K., and Cagan, J.
+authors: Goucher-Lambert K, and Cagan J
 year: 2019
 ref: Goucher-Lambert and Cagan 2019. Design Studies.
 journal: "Design Studies 61: 1-29."
