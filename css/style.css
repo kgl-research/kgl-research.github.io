@@ -252,6 +252,11 @@ td,th {
     .navbar {
         display: none
     }
+    
+    .navbar-small {
+	font-size: 15px;
+	font-weight: $font-weight-base;
+    }
 
     .btn>.caret,.dropup>.btn>.caret {
         border-top-color: #000 !important
