@@ -5,19 +5,8 @@ image: /images/papers/2020-method_selection.jpg
 authors: Rao V, Kim E, Kwon J, Agogino A, Goucher-Lambert K
 year: 2020
 ref: Rao et al. <i>ASME IDETC</i> 2020
-journal: "Design Studies 60: 1-38."
-pdf: /pdfs/papers/kgl-fmri-analogy-ds.pdf
-doi: 10.1016/j.destud.2018.07.001 
+journal: "Proceedings of the ASME International Design Engineering Technical Conferences (2020)."
+pdf: /pdfs/papers/rao-method-selection.pdf
 ---
 # Abstract
-Despite the fact that inspirational stimuli (e.g., analogies) have been shown to be
-an effective means to assist designers, little is known about the neurological
-processes supporting inspired design ideation. To explore the impact of
-inspirational stimuli on design ideation, an fMRI concept generation task was
-developed (N = 21). Results demonstrate that inspirational stimuli of any kind
-(near or far from the problem space) improve the fluency of idea generation.
-Furthermore, neuroimaging data help to uncover two distinct brain activation
-networks based upon reasoning with and without inspirational stimuli. We term
-these inspired internal search and unsuccessful external search. These brain
-activation networks give insight into differences between ideating with and without
-inspirational stimuli, and between inspirational stimuli of varying distances.
+Designers’ choices of methods are well known to shape project outcomes. However, questions remain about why design teams select particular methodsand how teams’ decision-making strategies are influenced by project- and process-based factors. In this work, we analyze novice design teams’ decision-making strategies underlying 297 selections of human-centered design methods over the course of three semester-long project-based engineering design courses. We propose a framework grounded in 100+ factors sourced from new product development literature that classifies design teams’ method selection strategy as either agent-, outcome-, or process-driven, with eight further subclassifications. Coding method selections with this framework, we uncover three insights about design team method selection. First, we identify fewer outcomes-based selection strategies across all phases and innovation types. Second, we observe a shift in decision-making strategy from user-focused outcomes in earlier phases to product-based outcomes in later phases. Third, we observe that decision-making strategy produces a greater heterogeneity of method selections as compared to the class average as a whole, or project type alone. These findings provide a deeper understanding of designers’ method selection behavior and have implications for effective management of design teams, development of automated design support tools to aid design teams, and curation of design method repositories, e.g., theDesignExchange.
