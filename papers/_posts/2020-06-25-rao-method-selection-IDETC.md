@@ -2,9 +2,9 @@
 layout: paper
 title: Method Selection in Human-Centered Design Teams: An Examination of Decision-Making Strategies
 image: /images/papers/2020-method_selection.jpg
-authors: Goucher-Lambert K, Moss J, and Cagan J.
-year: 2019
-ref: Goucher-Lambert et al. <i>Design Studies</i> 2019
+authors: Rao V, Kim E, Kwon J, Agogino A, Goucher-Lambert K
+year: 2020
+ref: Rao et al. <i>ASME IDETC</i> 2020
 journal: "Design Studies 60: 1-38."
 pdf: /pdfs/papers/kgl-fmri-analogy-ds.pdf
 doi: 10.1016/j.destud.2018.07.001 
