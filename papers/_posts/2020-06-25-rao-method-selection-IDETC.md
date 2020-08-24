@@ -6,7 +6,7 @@ authors: Rao V, Kim E, Kwon J, Agogino A, Goucher-Lambert K.
 year: 2020
 ref: Rao et al. <i>ASME IDETC</i> 2020
 journal: "Proceedings of the ASME International Design Engineering Technical Conferences (2020)."
-pdf: /pdfs/papers/rao-method-selection.pdf
+pdf: /pdfs/papers/rao-method_selection.pdf
 ---
 
 # Abstract
