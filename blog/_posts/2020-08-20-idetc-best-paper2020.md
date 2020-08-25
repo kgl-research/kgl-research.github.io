@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best Paper Award at IDETC 2020!
+title: Best Paper Award at ASME IDETC 2020!
 author: Kosa
 ---
 
