@@ -2,7 +2,8 @@
 layout: paper
 title: Multi-modal Search for Inspirational Examples in Design
 image: /images/papers/2021-IDETC-kwon-multi-modal-search.png
-authors: Kwon, E., Huang, F., Goucher-Lambert, K.
+authors: Kwon E, Huang F, and Goucher-Lambert K.
+year: 2021
 ref: Kwon et al. <i>ASME IDETC</i> 2021
 journal: Proceedings of the ASME International Design Engineering Technical Conferences (2021).
 pdf: /pdfs/papers/kwon-multi-modal-search.pdf
