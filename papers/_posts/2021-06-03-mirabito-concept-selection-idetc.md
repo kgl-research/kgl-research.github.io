@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Connecting design actions, reasoning, and outcomes in concept selection
-image: /images/papers/2021-IDETC-figma.jpg
+image: /images/papers/2021-IDETC-figma.JPG
 authors: Mirabito Y, and Goucher-Lambert K.
 year: 2021
 ref: Mirabito and Goucher-Lambert. <i>ASME IDETC</i> 2021
