@@ -47,6 +47,27 @@ The `layout`, `title` and `author` tags are required, while `link` and `image` a
 * Look over the [metadata format guide](http://bedford.io/guide/format/)
 * Look over the [Markdown style guide](http://bedford.io/guide/style/)
 
+## Add papers
+
+1. Request access to the repo if needed
+2. Upload a PDF of your paper: `pdfs/papers/name-shorttitle-pub.pdf` (ex. kgl-crowdsourcing-stimuli-designstudies.pdf)
+3. Upload a representative image for your paper (size 120px x 120px): `images/papers/name-shorttitle-pub.jpg or png` (ex. kgl-crowdsourcing-stimuli-designstudies.jpg)
+4. Create a Markdown file (.md) with the required top matter. The `pdf` tag should have the exact path of your uploaded PDF and the `image` tag should have the exact path of your uploaded image. The rest of the Markdown file will contain the abstract. Follow existing examples in the repo. An example of the Markdown file top matter is:
+```
+---
+layout: paper
+title: Crowdsourcing Inspiration - Using crowd generated inspirational stimuli to support designer ideation
+image: /images/papers/kgl-crowdsourcing-stimuli-designstudies.jpg
+authors: Goucher-Lambert K, and Cagan J.
+year: 2019
+ref: Goucher-Lambert and Cagan. <i>Design Studies</i> 2019
+journal: "Design Studies 61: 1-29."
+pdf: /pdfs/papers/kgl-crowdsourcing-stimuli-designstudies.pdf
+doi: 10.1016/j.destud.2019.01.001 
+---
+```
+4. Upload the .md file: `papers/_posts/date-name-shorttitle-pub.md`
+
 ## License
 
 All source code in this repository, consisting of files with extensions `.html`, `.css`, `.less`, `.rb` or `.js`, is freely available under an MIT license, unless otherwise noted within a file. You're welcome to borrow / repurpose code to build your own site, but I would very much appreciate attribution and a link back to [bedford.io](http://bedford.io) from your `about` page.
