@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Factors Impacting Highly Innovative Designs\: Idea Fluency, Timing, and Order
+title: Factors Impacting Highly Innovative Designs - Idea Fluency, Timing, and Order
 image: /images/papers/2022-fig6-jmd.png
 authors: Mirabito Y, and Goucher-Lambert K.
 year: 2022
