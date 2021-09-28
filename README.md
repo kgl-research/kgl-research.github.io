@@ -67,6 +67,7 @@ doi: 10.1016/j.destud.2019.01.001
 ---
 ```
 4. Upload the .md file: `papers/_posts/date-name-shorttitle-pub.md` (ex. 2019-01-01-kgl-crowdsourcing-stimuli-ds.md)
+5. Please replace ":" in paper titles with "-"
 
 ## License
 
