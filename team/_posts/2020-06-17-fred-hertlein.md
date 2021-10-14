@@ -8,4 +8,4 @@ alumni: true
 
 ---
 
-Fred will add some super cool information here!
+
