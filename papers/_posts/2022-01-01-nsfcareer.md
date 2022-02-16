@@ -1,8 +1,0 @@
----
-layout: post
-title: Co-Design Lab awarded NSF CAREER grant
-author: Kosa
----
-The Co-Design Lab has been awarded an NSF CAREER grant! 
-
-ABSTRACT: The research objective of this CAREER project is to demonstrate the combined efficacy of neuroimaging and data-driven techniques to advance the science of 'design via inspiration', enabling designers to use new computational tools in order to discover impactful inspirational stimuli that enhance their creativity and design outcomes. The specific aims of the project are to: (1) characterize brain activation patterns using functional magnetic resonance imaging relating to different representations of design concepts; (2) understand designer behavior during the discovery and application of inspirational stimuli; and (3) develop new, data-driven design tools that support the discovery of inspirational stimuli across a range of interaction modalities (e.g., text descriptions, sketching, 3D models). Research studies will recruit student and professional designers engaged in representative early-stage design ideation tasks in the domain of mechanical engineering. The education and outreach goals of this project are centered on the expansion of a 10-week summer program developed by the PI for underrepresented undergraduate students. The project will create new pedagogical content, assessment methods, and add engagement with a local charter school. Results from the education and outreach work will be packaged and disseminated to the broader community in order to encourage the adoption of similar program models by other institutions.
