@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: The role of idea fluency and timing on highly innovative design concepts
+title: The Role of Idea Fluency and Timing on Highly Innovative Design Concepts
 image: /images/papers/2020-IDETC-time.jpg
 authors: Mirabito Y, and Goucher-Lambert K.
 year: 2020
