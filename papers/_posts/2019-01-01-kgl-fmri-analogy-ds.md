@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: A neuroimaging investigation of design ideation with and without inspirational stimuli- understanding the meaning of near and far stimuli
+title: A Neuroimaging Investigation of Design Ideation With and Without Inspirational Stimuli- Understanding the Meaning of Near and Far Stimuli
 image: /images/papers/2019-DS-fMRI.jpg
 authors: Goucher-Lambert K, Moss J, and Cagan J.
 year: 2019
