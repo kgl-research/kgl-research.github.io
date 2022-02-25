@@ -3,7 +3,7 @@ layout: paper
 title: Adaptive Inspirational Design Stimuli - Using Design Output to Computationally Search for Stimuli that Impact Concept Generation
 image: /images/papers/2020-JMD-adaptive-stimuli.png
 authors: Goucher-Lambert K, Gyory J, Kotovsky K, and Cagan J.
-ref: Goucher-Lambert et al. <i>JMD</i> 2020
+ref: Goucher-Lambert et al. <i>ASME J. Mech. Des.</i> 2020
 journal: Journal of Mechanical Design 142 (9) (2020).
 pdf: /pdfs/papers/kgl-adaptive-stimuli-jmd.pdf
 ---
