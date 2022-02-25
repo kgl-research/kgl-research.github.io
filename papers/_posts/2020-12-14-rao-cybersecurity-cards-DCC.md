@@ -4,7 +4,7 @@ title: "Design for Cybersecurity (DfC) Cards: A Creativity-Based Approach to Sup
 image: /images/papers/2020-DCC-cybersecurity-cards.jpg
 authors: Rao V, Kim E, Jung HJ, Goucher-Lambert K, Agogino A.
 year: 2020
-ref: Rao et al. <i>Proceedings of the DCC Conference 2020</i>
+ref: Rao et al. <i>Proceedings of the DCC Conference</i> 2020
 journal: "Proceedings of Design, Computing and Cognition Conference 2020."
 pdf: /pdfs/papers/rao-cybersecurity-cards.pdf
 ---
