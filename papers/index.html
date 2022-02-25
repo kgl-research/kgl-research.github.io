@@ -5,6 +5,9 @@ categories:
  - papers
 ---
 
+{% include JB/setup %}
+<div class="bigspacer"></div>
+
 {% for paper in site.categories.papers %}
     {% cycle 'add rows': '<div class="row">', '', '' %}
 		<div class="col-md-4 paperbox">
@@ -22,3 +25,5 @@ categories:
     {% cycle 'close rows': '', '', '</div>' %}
 {% endfor %}
 {% cycle 'close rows': '', '</div>', '</div>' %}
+
+<div class="bigspacer"></div>
