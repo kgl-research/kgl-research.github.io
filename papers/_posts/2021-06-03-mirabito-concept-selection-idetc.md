@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Connecting design actions, reasoning, and outcomes in concept selection
+title: Connecting Design Actions, Reasoning, and Outcomes in Concept Selection
 image: /images/papers/2021-IDETC-figma.JPG
 authors: Mirabito Y, and Goucher-Lambert K.
 year: 2021
