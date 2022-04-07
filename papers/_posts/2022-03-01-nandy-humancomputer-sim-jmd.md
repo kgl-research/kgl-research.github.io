@@ -7,7 +7,7 @@ year: 2022
 ref: Nandy et al. <i>ASME J. Mech. Des.</i> 2022
 journal: "Journal of Mechanical Design 144(4)."
 pdf: /pdfs/papers/nandy-humancomputer-sim-jmd.pdf
-doi: 
+doi: https://doi.org/10.1115/1.4053858
 ---
 		
 
