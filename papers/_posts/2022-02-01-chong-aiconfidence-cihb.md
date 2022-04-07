@@ -1,13 +1,13 @@
 ---
 layout: paper
-title: Human confidence in artificial intelligence and in themselves: The evolution and impact of confidence on adoption of AI advice
+title: "Human confidence in artificial intelligence and in themselves: The evolution and impact of confidence on adoption of AI advice"
 image: /images/papers/2022-cihb-chong-aiconfidence.png
 authors: Chong L., Zhang G., Goucher-Lambert K., Kotovsky K., and Cagan J.
 year: 2022
 ref: Chong et al. <i>Computers in Human Behavior</i> 2022
 journal: "Computers in Human Behavior 127."
 pdf: /pdfs/papers/chong-aiconfidence-cihb.pdf
-doi: https://doi.org/10.1016/j.chb.2021.107018
+doi: "https://doi.org/10.1016/j.chb.2021.107018"
 ---
 		
 
