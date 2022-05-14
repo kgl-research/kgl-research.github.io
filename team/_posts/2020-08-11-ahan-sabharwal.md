@@ -9,4 +9,4 @@ image: /images/team/ahan-sabharwal.jpg
 alumni: true
 ---
 
-Ahan Sabharwal is an undergraduate student studying Data Science and Computer Science at UC Berkeley. His interests include machine learning engineering, algorithms, ML/data infrastructure, and security. Ahan currently works on applied machine learning research. Connect with him on [LinkedIn](https://www.linkedin.com/in/ahan-sabharwal/)!
+Ahan Sabharwal graduated with a Bachelor's in Data Science with a minor in Computer Science at UC Berkeley. His interests include machine learning engineering, algorithms, ML/data infrastructure, and security. You can find where he is now here: [LinkedIn](https://www.linkedin.com/in/ahan-sabharwal/)!
