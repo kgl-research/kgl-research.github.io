@@ -9,4 +9,4 @@ image: /images/team/ahan-sabharwal.jpg
 alumni: true
 ---
 
-Ahan Sabharwal graduated with a Bachelor's in Data Science with a minor in Computer Science at UC Berkeley. His interests include machine learning engineering, algorithms, ML/data infrastructure, and security. You can find where he is now here: [LinkedIn](https://www.linkedin.com/in/ahan-sabharwal/)!
+Ahan Sabharwal graduated with a Bachelor's in Data Science with a minor in Computer Science at UC Berkeley. His interests include machine learning engineering, algorithms, ML/data infrastructure, and security. Connect with him on [LinkedIn](https://www.linkedin.com/in/ahan-sabharwal/)!
