@@ -6,6 +6,7 @@ authors: Nandy A, and Goucher-Lambert K.
 ref: Nandy and Goucher-Lambert. <i>ASME IDETC</i> 2021
 journal: Proceedings of the ASME International Design Engineering Technical Conferences (2021).
 pdf: /pdfs/papers/nandy-human-computer-functional-sim.pdf
+year: 2021
 ---
 
 # Abstract

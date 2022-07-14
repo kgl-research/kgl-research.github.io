@@ -6,6 +6,7 @@ authors: Gercer Ulu N, Messersmith M, Goucher-Lambert K, Cagan J, and Kara LB.
 ref: Gercer Ulu et al. <i>ASME J. Mech. Des.</i> 2019
 journal: Journal of Mechanical Design 141 (8) (2019).
 pdf: /pdfs/papers/gercer-WoC-jmd.pdf
+year: 2019
 ---
 
 # Abstract

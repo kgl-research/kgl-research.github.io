@@ -6,6 +6,7 @@ authors: Goucher-Lambert K, Gyory J, Kotovsky K, and Cagan J.
 ref: Goucher-Lambert et al. <i>ASME J. Mech. Des.</i> 2020
 journal: Journal of Mechanical Design 142 (9) (2020).
 pdf: /pdfs/papers/kgl-adaptive-stimuli-jmd.pdf
+year: 2020
 ---
 
 # Abstract
