@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Investigating the Roles of Expertise and Modality in Designers' Search for Inspirational Stimuli
-image: /images/papers/2022-DCC-kwon-expertise.png
+image: /images/papers/2022-IDETC-kwon-expertise.png
 authors: Kwon E, Rao V, and Goucher-Lambert K.
 year: 2022
 ref: Kwon et al. <i>ASME IDETC</i> 2022
