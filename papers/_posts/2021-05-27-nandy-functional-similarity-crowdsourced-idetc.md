@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Aligning Human and Computational Evaluations of Functional Design Similarity
-image: /images/papers/2021-IDETC-functional-similarity-crowdsourced.png
+image: /images/papers/2021-IDETC-functional-similarity-crowdsourced.png 
 authors: Nandy A, and Goucher-Lambert K.
 ref: Nandy and Goucher-Lambert. <i>ASME IDETC</i> 2021
 journal: Proceedings of the ASME International Design Engineering Technical Conferences (2021).
