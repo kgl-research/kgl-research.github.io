@@ -4,7 +4,7 @@ title: Factors Impacting Highly Innovative Designs - Idea Fluency, Timing, and O
 image: /images/papers/2022-fig6-jmd.png
 authors: Mirabito Y, and Goucher-Lambert K.
 year: 2022
-ref: Mirabito and Goucher-Lambert. <i>ASME J. Mech. Des.</i> 2021
+ref: Mirabito and Goucher-Lambert. <i>ASME J. Mech. Des.</i> 2022
 journal: "Journal of Mechanical Design 144(1)."
 pdf: /pdfs/papers/mirabito-innovative-factors.pdf
 doi: 
