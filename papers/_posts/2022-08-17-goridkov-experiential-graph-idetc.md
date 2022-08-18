@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Capturing Designers’ Experiential Knowledge in Scalable Representation Systems: A Case Study of Knowledge Graphs for Product Teardowns
+title: "Capturing Designers' Experiential Knowledge in Scalable Representation Systems: A Case Study of Knowledge Graphs for Product Teardowns"
 image: /images/papers/2022-IDETC-goridkov-experientialgraph.png
 authors: Goridkov N, Rao V, Cui D, Grandi D, Wang Y, and Goucher-Lambert K.
 year: 2022
