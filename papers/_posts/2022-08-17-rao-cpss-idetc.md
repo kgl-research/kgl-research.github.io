@@ -1,0 +1,15 @@
+---
+layout: paper
+title: "Designing Privacy Risk Frameworks for Evolving Cyber-Physical Social Systems: Knowledge Gaps Illuminated by the Case of Autonomous Vehicles and Bystander Privacy"
+image: /images/papers/2022-IDETC-rao-cpss.png
+authors: Rao V, Joshi A, Kang S, Lin S, Song J, Miller D, Goucher-Lambert K, and Agogino A.
+year: 2022
+ref: Rao et al. <i>ASME IDETC</i> 2022
+journal: Proceedings of the ASME International Design Engineering Technical Conferences (2022).
+pdf:
+doi:
+---
+
+
+# Abstract
+Designers and engineers increasingly engage with and must design for sociotechnical systems, also described as cyberphysical-social systems (CPSS). Leading frameworks like System-Theoretic Process Analysis and Value-Sensitive Design intend to help designers consider the consequences and impacts of their work with CPSS. However, such frameworks may not sufficiently account for human-centered scenarios. This complicates designers’ efforts to balance user needs with traditional forms of risk assessment. In this work, we explore foundations for the design of human-centered risk frameworks and examine a case study of autonomous vehicles and bystanders’ privacy as an example CPSS to address this gap. We develop an exploratory scenario-based risk framework and conduct expert interviews with experienced professionals (N = 7) working in the fields of autonomous vehicle design, development, policy and security to understand their perspectives on risk assessment and gather feedback on our framework. Reconciling interview findings with existing knowledge of evolving CPSS, we identify three broad knowledge gaps that could motivate future research in this space. First, we argue that there is a knowledge gap in developing humancentered frameworks and best practices to consider all stakeholders during the design of evolving CPSS. Second, we argue that a knowledge gap exists in acknowledging, reconciling, and proactively managing disciplinary discontinuities in vocabularies and mental models in evolving CPSS. Lastly, we argue that a critical knowledge gap exists around how to adapt scenario-based frameworks to accommodate the shifting challenges of designing evolving CPSS. We conclude with a discussion of preliminary implications for designing human-centered frameworks for autonomous vehicles and CPSS more generally. 
