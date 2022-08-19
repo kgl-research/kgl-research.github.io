@@ -7,7 +7,7 @@ year: 2022
 ref: Kwon et al. <i>AI EDAM</i> 2022
 journal: Artificial Intelligence for Engineering Design, Analysis and Manufacturing (2022).
 pdf: /pdfs/papers/kwon-multimodal-aiedam.pdf
-doi: https://doi.org/10.1017/S0890060422000130 
+doi: 10.1017/S0890060422000130 
 ---
 		
 
