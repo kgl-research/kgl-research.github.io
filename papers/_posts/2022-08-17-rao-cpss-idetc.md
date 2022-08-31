@@ -6,7 +6,7 @@ authors: Rao V, Joshi A, Kang S, Lin S, Song J, Miller D, Goucher-Lambert K, and
 year: 2022
 ref: Rao et al. <i>ASME IDETC</i> 2022
 journal: Proceedings of the ASME International Design Engineering Technical Conferences (2022).
-pdf:
+pdf: /pdfs/papers/rao-cpss-idetc.pdf
 doi:
 ---
 
