@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: “Like a Moodboard, but More Interactive: The Role of Expertise in Designers’ Mental Models and Speculations on an Intelligent Design Assistant"
+title: “Like a Moodboard, but More Interactive" - The Role of Expertise in Designers’ Mental Models and Speculations on an Intelligent Design Assistant
 image: /images/papers/2022-DCC-Rao-mentalmodels.png
 authors: Rao V., Kwon E., and Goucher-Lambert K.
 year: 2022
