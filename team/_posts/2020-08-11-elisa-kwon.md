@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Elisa Kwon
-position: PhD student
+position: PhD candidate
 handle: kwonelis
 email: elisa.kwon@berkeley.edu
 image: /images/team/elisa-kwon.jpg
