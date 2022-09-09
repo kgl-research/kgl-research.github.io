@@ -4,8 +4,9 @@ title: Caseysimone Ballestas
 position: PhD student
 handle: caseysimone
 email: caseysimone@berkeley.edu
+scholar: 0DpX_E0AAAAJ
 image: /images/team/caseysimone-ballestas.PNG
-linkedin: [https://www.linkedin.com/in/kevin-ma-08173b189/](https://www.linkedin.com/in/caseysimone/) 
+linkedin: (https://www.linkedin.com/in/caseysimone/) 
 website: caseysimone.com
 ---
 
