@@ -6,6 +6,7 @@ handle: ananyan
 email: ananyan@berkeley.edu
 twitter: AnAnanyaNandy
 image: /images/team/ananya-nandy.png
+website: https://ananyan.github.io/ 
 ---
 
 Ananya is an MS/PhD student in the department of mechanical engineering at UC Berkeley. Her current interests include (but are not limited to) universal design,
