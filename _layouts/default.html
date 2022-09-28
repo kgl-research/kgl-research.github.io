@@ -85,7 +85,15 @@
 						{% else %}
 						<li>
 						{% endif %}
-						<a href="/team/">team</a></li>	  	  
+						<a href="/team/">team</a></li>
+
+						{% if page.categories.first == 'misc' %}
+						<li class="active">
+						{% else %}
+						<li>
+						{% endif %}
+						<a href="/misc/lablife">Lab Life</a>
+						</li>
 					</ul>
 				</div>
 			</div>
