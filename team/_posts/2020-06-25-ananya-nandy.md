@@ -9,7 +9,5 @@ image: /images/team/ananya-nandy.png
 website: https://ananyan.github.io/ 
 ---
 
-Ananya is an MS/PhD student in the department of mechanical engineering at UC Berkeley. Her current interests include (but are not limited to) universal design,
-human-machine collaboration for engineering design, and sustainability in product design. She graduated with a B.S. in Mechanical Engineering from MIT, working
-on projects ranging from assistive technology to stretchable electronics, before moving back to the Bay Area. 
+Ananya is an MS/PhD student in the department of mechanical engineering at UC Berkeley. Her research focuses on understanding how humans represent and interact with different types of design information, with the goal of advancing human-centered computing in engineering design. She graduated with a B.S. in Mechanical Engineering from MIT. 
 In addition, she is a former competitive figure skater, beginner guitar player, and coffee lover! 
