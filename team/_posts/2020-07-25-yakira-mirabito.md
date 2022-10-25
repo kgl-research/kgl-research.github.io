@@ -4,6 +4,8 @@ title: Yakira Mirabito
 position: PhD student
 handle: yakira
 email: yakira.mirabito@berkeley.edu
+twitter: YakiraMirabito
+website: http://yakiramirabito.com/
 image: /images/team/yakira-mirabito.jpg
 ---
 
