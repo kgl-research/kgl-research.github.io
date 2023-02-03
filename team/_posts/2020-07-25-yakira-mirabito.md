@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Yakira Mirabito
-position: PhD student
+position: PhD candidate
 handle: yakira
 email: yakira.mirabito@berkeley.edu
 twitter: YakiraMirabito
