@@ -4,7 +4,7 @@ title: Uncovering hidden patterns of design ideation using hidden Markov modelin
 image: /images/papers/2023-aiedam-hu-markov.png
 authors: Hu M, McComb C, and Goucher-Lambert K.
 year: 2023
-ref: Hu et al. <i>AI Edam </i> 2023
+ref: Hu et al. <i>AI EDAM </i> 2023
 journal: Artificial Intelligence for Engineering Design, Analysis and Manufacturing (2023).
 pdf: /pdfs/papers/hu-markov-aiedam.pdf
 doi: 10.1017/S0890060423000021
