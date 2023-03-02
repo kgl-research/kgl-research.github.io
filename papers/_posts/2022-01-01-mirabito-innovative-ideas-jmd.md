@@ -7,7 +7,7 @@ year: 2022
 ref: Mirabito and Goucher-Lambert. <i>ASME J. Mech. Des.</i> 2022
 journal: "Journal of Mechanical Design 144(1)."
 pdf: /pdfs/papers/mirabito-innovative-factors.pdf
-doi: 
+doi: 10.1115/1.4051683
 ---
 		
 
