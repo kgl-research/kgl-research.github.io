@@ -4,7 +4,7 @@ title: 'ShipHullGAN: A generic parametric modeller for ship hull design using de
 image: /images/papers/2023-cmame-khan-shipgan.png
 authors: Khan S, Goucher-Lambert K, Kostas K, and Kaklis P. 
 year: 2023
-ref: Khan et al.<i>CMAME</i> 2023
+ref: Khan et al. <i>CMAME</i> 2023
 journal: Computer Methods in Applied Mechanics and Engineering (2023).
 pdf: /pdfs/papers/khan-shipgan-cmame.pdf
 doi:
