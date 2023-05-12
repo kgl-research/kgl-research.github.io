@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Ananya Nandy
-position: PhD student
+position: PhD candidate
 handle: ananyan
 email: ananyan@berkeley.edu
 twitter: AnAnanyaNandy
