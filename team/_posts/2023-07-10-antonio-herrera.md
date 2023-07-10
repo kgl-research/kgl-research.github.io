@@ -4,7 +4,7 @@ title: Antonio Herrera
 position: Undergraduate Student
 handle: antonio
 email: dantonioh03@berkeley.edu
-image: /images/team/antonio-herrera.JPG
+image: /images/team/antonio-herrera.jpg
 website: https://www.linkedin.com/in/antonio-herrera-66b12b225/
 ---
 
