@@ -57,7 +57,7 @@ categories:
  			 	<div class="media-body">
     				<div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
     				<p class="note">{{ member.position }}</p>
-				{% if member.current != empty %}
+				{% if member.current is defined %}
 					<p class="note">Now: <em>{{ member.current }}</em></p>
 				{% endif %}
   				</div>
