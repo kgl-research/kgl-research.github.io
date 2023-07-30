@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Journey Mapping the Virtual Design Thinking Experience: Engaging Students Across Disciplines in Human-Centered Design
+title: "Journey Mapping the Virtual Design Thinking Experience: Engaging Students Across Disciplines in Human-Centered Design"
 image: /images/papers/2023-IDETC-moore-journeymap.png
 authors: Moore G, Rao V, Goucher-Lambert K, and Agogino A.
 year: 2023
