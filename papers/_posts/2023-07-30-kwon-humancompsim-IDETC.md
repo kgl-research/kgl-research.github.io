@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Similarities and Differences in Human vs. Computational Representations of Non-semantic Inspirational Design Stimuli
-image: /images/papers/2023-IDETC-kwon-humancompsim.png
+image: /images/papers/2023-IDETC-humancompsim.png
 authors: Kwon E and Goucher-Lambert K.
 year: 2023
 ref: Kwon and Goucher-Lambert. <i>ASME IDETC</i> 2023
