@@ -5,7 +5,7 @@ image: /images/papers/2023-DesStudies-kwon-stimulisearch.png
 authors: Kwon E, Rao V, and Goucher-Lambert K.
 year: 2023
 ref: Kwon E et al. <i>Design Studies</i> 2023
-journal: Design Studies 88: 101202.
+journal: "Design Studies 88: 101202."
 pdf: /pdfs/papers/kwon-inspirationalstimuli-desstudies.pdf
 doi: 10.1016/j.destud.2023.101202
 ---
