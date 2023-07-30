@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Understanding inspiration: Insights into how designers discover inspirational stimuli using an AI-enabled platform\
+title: "Understanding inspiration: Insights into how designers discover inspirational stimuli using an AI-enabled platform"
 image: /images/papers/2023-DesStudies-kwon-stimulisearch.png
 authors: Kwon E, Rao V, and Goucher-Lambert K.
 year: 2023
