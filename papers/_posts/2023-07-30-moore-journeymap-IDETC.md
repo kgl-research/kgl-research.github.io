@@ -6,7 +6,7 @@ authors: Moore G, Rao V, Goucher-Lambert K, and Agogino A.
 year: 2023
 ref: Moore et al. <i>ASME IDETC</i> 2023
 journal: Proceedings of the ASME International Design Engineering Technical Conferences (2023).
-pdf: /pdfs/papers/moore\'97journeymap-idetc.pdf
+pdf: /pdfs/papers/moore-journeymap-idetc.pdf
 ---
 
 # Abstract
