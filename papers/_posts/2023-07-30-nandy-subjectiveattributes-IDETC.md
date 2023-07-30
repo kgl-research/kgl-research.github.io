@@ -8,9 +8,8 @@ year: 2023
 ref: Nandy and Goucher-Lambert. <i>ASME IDETC</i> 2023
 journal: Proceedings of the ASME International Design Engineering Technical Conferences (2023).
 pdf: /pdfs/papers/nandy-subjectiveattributes-idetc.pdf
-doi: 
 ---
-		
+
 # Abstract	
 
 Subjective attributes play a significant part in the assessment
