@@ -1,7 +1,7 @@
 ---
 layout: paper
-title: Adaptive Optimization of Subjective Design Attributes:
-Characterizing Individual and Aggregate Perceptions
+title: "Adaptive Optimization of Subjective Design Attributes:
+Characterizing Individual and Aggregate Perceptions"
 image: /images/papers/2023-IDETC-nandy-subjectiveattributes.png
 authors: Nandy A and Goucher-Lambert K.
 year: 2023
