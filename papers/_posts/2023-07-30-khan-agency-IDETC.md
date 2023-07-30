@@ -9,7 +9,6 @@ year: 2023
 ref: Khan et al. <i>ASME IDETC</i> 2023
 journal: Proceedings of the ASME International Design Engineering Technical Conferences (2023).
 pdf: /pdfs/papers/khan-agency-shipgan-idetc.pdf
-doi: 
 ---
 		
 # Abstract	
