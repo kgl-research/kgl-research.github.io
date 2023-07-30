@@ -1,8 +1,6 @@
 ---
 layout: paper
-title: How does agency impact human-AI collaborative design
-space exploration? A case study on ship design with deep
-generative models
+title: How does agency impact human-AI collaborative design space exploration? A case study on ship design with deep generative models
 image: /images/papers/2023-IDETC-khan-agency.png
 authors: Khan S, Kaklis P, and Goucher-Lambert K.
 year: 2023
@@ -10,7 +8,7 @@ ref: Khan et al. <i>ASME IDETC</i> 2023
 journal: Proceedings of the ASME International Design Engineering Technical Conferences (2023).
 pdf: /pdfs/papers/khan-agency-shipgan-idetc.pdf
 ---
-		
+
 # Abstract	
 
 Typical parametric approaches restrict the exploration of diverse designs by generating variations based on a baseline\
