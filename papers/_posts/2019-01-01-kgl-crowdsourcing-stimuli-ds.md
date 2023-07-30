@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Crowdsourcing Inspiration - Using Crowd Generated Inspirational Stimuli to Support Designer Ideation
+title: "Crowdsourcing Inspiration: Using Crowd Generated Inspirational Stimuli to Support Designer Ideation"
 image: /images/papers/2019-DS-crowdsource.jpg
 authors: Goucher-Lambert K, and Cagan J.
 year: 2019
