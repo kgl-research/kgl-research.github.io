@@ -1,3 +1,4 @@
+---
 layout: paper
 title: Adaptive Optimization of Subjective Design Attributes:
 Characterizing Individual and Aggregate Perceptions
