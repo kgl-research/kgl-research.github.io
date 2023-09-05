@@ -5,7 +5,7 @@ position: MEng Student
 email: gfhertlein@berkeley.edu
 image: /images/team/fred-hertlein.jpg
 alumni: true
-current: "Now: Data Scientist at Curative"
+current: "Position after lab: Data Scientist at Curative"
 ---
 
 
