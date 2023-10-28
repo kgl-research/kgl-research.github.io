@@ -3,7 +3,7 @@ layout: member
 title: Gaëlle Baudoux
 position: Postdoctoral Scholar
 handle: gaelle
-email: gbaudoux@uliege.be
+email: gbaudoux@berkeley.edu
 image: /images/team/gaelle-baudoux.jpg
 scholar: GgFTI6AAAAAJ&hl=fr&oi=ao
 alumni: false
