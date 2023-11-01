@@ -1,3 +1,4 @@
+---
 layout: post
 title: Arriving Visiting Scholar Fall 2023
 author: Co-Design Lab
