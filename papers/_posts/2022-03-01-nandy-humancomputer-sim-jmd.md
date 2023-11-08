@@ -4,7 +4,7 @@ title: Do human and computational evaluations of similarity align? An empirical 
 image: /images/papers/2022-jmd-nandy-hcsim.png
 authors: Nandy A, and Goucher-Lambert K.
 year: 2022
-ref: Nandy et al. <i>ASME J. Mech. Des.</i> 2022
+ref: Nandy and Goucher-Lambert. <i>ASME J. Mech. Des.</i> 2022
 journal: "Journal of Mechanical Design 144(4)."
 pdf: /pdfs/papers/nandy-humancomputer-sim-jmd.pdf
 doi: https://doi.org/10.1115/1.4053858
