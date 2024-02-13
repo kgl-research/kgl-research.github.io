@@ -6,7 +6,7 @@ authors: Nandy A, Smith J, Jennings N, Kuniavsky M, Hartmann B, and Goucher-Lamb
 year: 2023
 ref: Nandy et al. <i>Proceedings of the ICED Conference</i> 2023
 journal: "Proceedings of the Design Society: 24th International Conference on Engineering Design."
-pdf: /pdfs/papers/nandy-vr-iced.pdf.pdf
+pdf: /pdfs/papers/nandy-vr-iced.pdf
 doi: 
 ---
 		
