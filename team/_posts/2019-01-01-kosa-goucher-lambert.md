@@ -6,7 +6,7 @@ handle: kosa
 email: kosa@berkeley.edu
 twitter: kosagl
 scholar: yA7xpsIAAAAJ
-image: /images/team/kosa-goucher-lambert.jpg
+image: /images/team/kosa-goucher-lambert24.jpg
 cv: /pdfs/team/CV_kgl.pdf
 ---
 
