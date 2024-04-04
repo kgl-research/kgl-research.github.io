@@ -5,6 +5,7 @@ position: PhD student
 handle: goridkov
 email: goridkov@berkeley.edu
 image: /images/team/nicole-goridkov.jpg
+website: https://www.linkedin.com/in/nicole-goridkov/
 ---
 
 Nicole Goridkov is an MS/PhD student in Mechanical Engineering at UC Berkeley. 
