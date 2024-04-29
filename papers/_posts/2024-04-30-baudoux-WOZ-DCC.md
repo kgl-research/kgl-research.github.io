@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Automating Analogical Reasoning: A Wizard of Oz study on the benefits and pitfalls of a sketch-based AI image generator for design
+title: "Automating Analogical Reasoning: A Wizard of Oz study on the benefits and pitfalls of a sketch-based AI image generator for design"
 image: /images/papers/2024-dcc-baudoux-woz.png
 authors: Baudoux G, and Goucher-Lambert K.
 year: 2024
