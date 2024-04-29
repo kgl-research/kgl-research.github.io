@@ -2,7 +2,7 @@
 layout: paper
 title: Assessing the alignment between word representations in the brain and large language models 
 image: /images/papers/2024-dcc-kwon-llm-brain-alignment.png
-authors: Kwon E, and Goucher-Lambert K.
+authors: Kwon E, Patterson JD, Beaty RE, and Goucher-Lambert K.
 year: 2024
 ref: Kwon et al. <i>Proceedings of the DCC Conference</i> 2024
 journal: "Proceedings of Design, Computing and Cognition Conference 2024."
