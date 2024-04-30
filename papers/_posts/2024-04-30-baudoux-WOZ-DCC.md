@@ -11,5 +11,4 @@ pdf: /pdfs/papers/baudoux-woz-dcc.pdf
 
 
 # Abstract
-
-
+Our research vision is to stimulate design ideation through the creative power of analogical reasoning with the automatic delivery of impactful stimuli; sending project-appropriate inspiration to automatically render images during the preliminary stages of design. Recent advances in artificial intelligence opens this up. However, many questions remain about how designers may engage with such interactions. This paper employs a Wizard of Oz protocol to immerse 9 architects for a 4 hours residential building design task. Collected data is analyzed to study questions such as
