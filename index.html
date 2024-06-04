@@ -5,6 +5,28 @@ categories:
  - home
 ---
 
+<style>
+    /* CSS for slide indicators */
+    .slide-indicators {
+        text-align: center;
+        margin-top: 10px;
+    }
+    
+    .slide-indicator {
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        background-color: #ccc;
+        border-radius: 50%;
+        margin: 0 5px;
+        cursor: pointer;
+    }
+    
+    .active-slide {
+        background-color: #333;
+    }
+</style>
+
 <div class="row">
     <div class="col-md-12">
         <div class="bigtitle logobox">
@@ -19,9 +41,7 @@ categories:
             <!-- Image Slider Container -->
             <div class="slider">
                 <img id="slider-image" src="images/codesign_lab_may24.JPG" alt="CoDesign lab photo" style="max-height:600px; margin:auto">
-                <div id="indicator" style="text-align: center; margin-top: 10px;">
-                    <span id="current-slide">1</span> / <span id="total-slides">3</span>
-                </div>
+                <div id="indicator" class="slide-indicators"></div>
             </div>
             <br>
         </div>
@@ -177,6 +197,8 @@ categories:
     {% endfor %}
 </div>
 
+<div class="spacer"></div>
+
 <script>
     // JavaScript for rotating images with indicators
     const images = [
@@ -187,16 +209,45 @@ categories:
     let currentIndex = 0;
     const totalSlides = images.length;
     const sliderImage = document.getElementById('slider-image');
-    const currentSlideIndicator = document.getElementById('current-slide');
-    const totalSlidesIndicator = document.getElementById('total-slides');
+    const indicatorContainer = document.getElementById('indicator');
     
-    totalSlidesIndicator.textContent = totalSlides;
+    // Create indicators
+    for (let i = 0; i < totalSlides; i++) {
+        const indicator = document.createElement('span');
+        indicator.classList.add('slide-indicator');
+        indicatorContainer.appendChild(indicator);
+    }
+
+    const slideIndicators = document.querySelectorAll('.slide-indicator');
+
+    function updateIndicators() {
+        slideIndicators.forEach((indicator, index) => {
+            if (index === currentIndex) {
+                indicator.classList.add('active-slide');
+            } else {
+                indicator.classList.remove('active-slide');
+            }
+        });
+    }
+
+    function goToSlide(index) {
+        currentIndex = index;
+        sliderImage.src = images[currentIndex];
+        updateIndicators();
+    }
+
+    slideIndicators.forEach((indicator, index) => {
+        indicator.addEventListener('click', () => {
+            goToSlide(index);
+        });
+    });
 
     function rotateImage() {
         currentIndex = (currentIndex + 1) % images.length;
         sliderImage.src = images[currentIndex];
-        currentSlideIndicator.textContent = currentIndex + 1;
+        updateIndicators();
     }
 
     setInterval(rotateImage, 5000); // Change image every 3 seconds
 </script>
+
