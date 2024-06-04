@@ -4,7 +4,7 @@ title: "Human-AI Collaboration Among Engineering and Design Professionals: Three
 image: /images/papers/2024-IDETC-ma-genai.png
 authors: Ma K, Moore G, Shyam V, Villarubia J, Goucher-Lambert K, and Brubaker E.
 year: 2024
-ref: Ma et al. <i>ASME IDETC</i> 2024
+ref: Ma and Moore et al. <i>ASME IDETC</i> 2024
 journal: Proceedings of the ASME International Design Engineering Technical Conferences (2024).
 pdf: /pdfs/papers/ma-genai-nasa-idetc.pdf
 ---
