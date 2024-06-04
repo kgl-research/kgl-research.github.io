@@ -6,70 +6,73 @@ categories:
 ---
 
 <div class="row">
-	<div class="col-md-12">
-		<div class="bigtitle logobox">
-			Co-Design Lab
-		</div>
-	</div>
+    <div class="col-md-12">
+        <div class="bigtitle logobox">
+            Co-Design Lab
+        </div>
+    </div>
 </div>
 <div class="row">
-	<div class="col-md-12">
-		<div class="smallhead">
-		<div class="row">
-			<img src="codesign_lab_may24.JPG" alt="CoDesign lab photo" style="max-height:600px; margin:auto"> 
-			<br>
-		</div>
-	  <p>
+    <div class="col-md-12">
+        <div class="smallhead">
+        <div class="row">
+            <!-- Image Slider Container -->
+            <div class="slider">
+                <img id="slider-image" src="images/codesign_lab_may24.JPG" alt="CoDesign lab photo" style="max-height:600px; margin:auto">
+            </div>
+            <br>
+        </div>
+      <p>
         The Cognition and Computation in Design (Co-Design) Lab, led by Dr. Kosa Goucher-Lambert, is a multidisciplinary research group at UC Berkeley, housed primarily in the <a href="https://me.berkeley.edu/">Department of Mechanical Engineering</a> and affiliated with the <a href="https://jacobsinstitute.berkeley.edu/">Jacobs Institute of Design Innovation</a> and <a href="http://bid.berkeley.edu/">Berkeley Institute of Design (BiD)</a>.
       </p>
       <p>
         The Co-Design Lab conducts scholarship at the frontiers of design research. We are interested in understanding the mechanisms that allow both humans and computers to excel at design tasks, as well as leveraging this information to develop the next generation of methods and tools that fundamentally improve the design process. Methodologically, our research group conducts <b><i>controlled experiments</b></i> utilizing both behavioral and computational methods (e.g., neuroimaging studies of design thinking), <b><i>systems research</b></i> (e.g., interactive prototypes and tools for designers), and <b><i>in-situ studies</b></i> of student and professional designers (e.g., design method usage in engineering education).
       </p>
       <p>
-		You can learn more about our work by looking at our <a href="/papers/">research papers</a>. To view current lab members and alumni please visit the <a href="/team/">team page</a>.
+        You can learn more about our work by looking at our <a href="/papers/">research papers</a>. To view current lab members and alumni please visit the <a href="/team/">team page</a>.
       </p>
       <p style="font-size:14px;line-height:14px">
-		<b>High activity research keywords:</b>
+        <b>High activity research keywords:</b>
       <br>
-		<small>Design theory, methodology, and automation; design cognition; neuroimaging methods applied to design; human-machine collaboration; decision-making applied to engineering teams and individuals; ideation and creativity; analogical reasoning in design; preference modeling and design attribute optimization; sustainable design; new product development; crowdsourcing</small>
+        <small>Design theory, methodology, and automation; design cognition; neuroimaging methods applied to design; human-machine collaboration; decision-making applied to engineering teams and individuals; ideation and creativity; analogical reasoning in design; preference modeling and design attribute optimization; sustainable design; new product development; crowdsourcing</small>
       </p>
-		</div>
-	</div>
+        </div>
+    </div>
 </div>
 
 <div class="bigspacer"></div>
 <div class="bigspacer"></div>
 
 <div class="row">
-	<div class="col-md-12">
-		<div class="head">
-			<a class="off" href="/blog/">Recent news</a>
-		</div>
-		<div class="spacer"></div>
-	</div>
+    <div class="col-md-12">
+        <div class="head">
+            <a class="off" href="/blog/">Recent news</a>
+        </div>
+        <div class="spacer"></div>
+    </div>
 </div>
 
 <div class="row">
-	{% for post in site.categories.blog limit:4 %}
+    {% for post in site.categories.blog limit:4 %}
 
-	{% for member in site.categories.team %}
-		{% if member.title == post.author %}
-			{% assign author = member %}
-		{% endif %}
-	{% endfor %}
+    {% for member in site.categories.team %}
+        {% if member.title == post.author %}
+            {% assign author = member %}
+        {% endif %}
+    {% endfor %}
 
-	<div class="col-md-3 reduced-gutter">
-		<div class="pad-left">
-			<div class="note">
-				<i class="fa fa-comment-o fa-fw"></i>
-				<a class="off" href="{{ post.url }}">
-				{{ post.title }}
-				</a>
-			</div>
-			<div class="smallspacer"></div>
-			<div class="smallnote">
-				Posted
-				{{ post.date | date: "%-d %b %Y" }}
+    <div class="col-md-3 reduced-gutter">
+        <div class="pad-left">
+            <div class="note">
+                <i class="fa fa-comment-o fa-fw"></i>
+                <a class="off" href="{{ post.url }}">
+                {{ post.title }}
+                </a>
+            </div>
+            <div class="smallspacer"></div>
+            <div class="smallnote">
+                Posted
+                {{ post.date | date: "%-d %b %Y" }}
         {% if post.author %}
         by <a class="off" href="
           {% for member in site.categories.team %}
@@ -103,71 +106,88 @@ categories:
         {{ post.authors.last }}
         </a>
         {% endif %}
-			</div>
-			<div class="bigspacer"></div>
-		</div>
-	</div>
-	{% endfor %}
+            </div>
+            <div class="bigspacer"></div>
+        </div>
+    </div>
+    {% endfor %}
 </div>
 
 <div class="spacer"></div>
 
 <div class="row">
-	<div class="col-md-12">
-		<div class="head">
-			<a class="off" href="/papers/">Recent papers</a>
-		</div>
-		<div class="spacer"></div>
-	</div>
+    <div class="col-md-12">
+        <div class="head">
+            <a class="off" href="/papers/">Recent papers</a>
+        </div>
+        <div class="spacer"></div>
+    </div>
 </div>
 
 <div class="row">
-	{% for paper in site.categories.papers limit:4 %}
-	<div class="col-md-3 reduced-gutter">
-		<div class="pad-left">
-			<div class="note">
-				<i class="fa fa-file-text-o fa-fw"></i>
-				<a class="off" href="{{ paper.url }}">
-				{{ paper.title }}
-				</a>
-			</div>
-			<div class="smallspacer"></div>
-			<div class="smallnote">
-				Posted
-				{{ paper.date | date: "%-d %b %Y" }}
-			</div>
-			<div class="bigspacer"></div>
-		</div>
-	</div>
-	{% endfor %}
+    {% for paper in site.categories.papers limit:4 %}
+    <div class="col-md-3 reduced-gutter">
+        <div class="pad-left">
+            <div class="note">
+                <i class="fa fa-file-text-o fa-fw"></i>
+                <a class="off" href="{{ paper.url }}">
+                {{ paper.title }}
+                </a>
+            </div>
+            <div class="smallspacer"></div>
+            <div class="smallnote">
+                Posted
+                {{ paper.date | date: "%-d %b %Y" }}
+            </div>
+            <div class="bigspacer"></div>
+        </div>
+    </div>
+    {% endfor %}
 </div>
 
 <div class="spacer"></div>
 
-
 <div class="row">
-	{% for project in site.data.projects limit:4 %}
-	<div class="col-md-3 reduced-gutter">
-		<div class="pad-left">
-			<div class="note">
-				<i class="fa fa-edit fa-fw"></i>
-				<a class="off" href="{{ project.url }}">
-				{{ project.title }} - {{ project.description }}
-				</a>
-			</div>
-			<div class="smallspacer"></div>
-			<div class="smallnote">
-				Updated
-				<a class="off" href="{{ project.commits.first.url }}">
-				{{ project.commits.first.date | date: "%-d %b %Y" }}
-				</a>
-				by
-				<a class="off" href="{{ project.commits.first.author_url }}">
-				{{ project.commits.first.author_login }}
-				</a>
-			</div>
-			<div class="bigspacer"></div>
-		</div>
-	</div>
-	{% endfor %}
+    {% for project in site.data.projects limit:4 %}
+    <div class="col-md-3 reduced-gutter">
+        <div class="pad-left">
+            <div class="note">
+                <i class="fa fa-edit fa-fw"></i>
+                <a class="off" href="{{ project.url }}">
+                {{ project.title }} - {{ project.description }}
+                </a>
+            </div>
+            <div class="smallspacer"></div>
+            <div class="smallnote">
+                Updated
+                <a class="off" href="{{ project.commits.first.url }}">
+                {{ project.commits.first.date | date: "%-d %b %Y" }}
+                </a>
+                by
+                <a class="off" href="{{ project.commits.first.author_url }}">
+                {{ project.commits.first.author_login }}
+                </a>
+            </div>
+            <div class="bigspacer"></div>
+        </div>
+    </div>
+    {% endfor %}
 </div>
+
+<script>
+    // JavaScript for rotating images
+    const images = [
+        "images/codesign_lab_may24.JPG",
+        "images/codesign_lab_idetc23.jpg", // Add more image paths here
+        "images/labphoto.JPG"
+    ];
+    let currentIndex = 0;
+    const sliderImage = document.getElementById('slider-image');
+
+    function rotateImage() {
+        currentIndex = (currentIndex + 1) % images.length;
+        sliderImage.src = images[currentIndex];
+    }
+
+    setInterval(rotateImage, 3000); // Change image every 3 seconds
+</script>
