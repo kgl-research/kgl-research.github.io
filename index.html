@@ -1,10 +1,3 @@
----
-layout: default
-title: Co-Design Lab
-categories:
- - home
----
-
 <style>
     /* CSS for slide indicators */
     .slide-indicators {
@@ -20,10 +13,23 @@ categories:
         border-radius: 50%;
         margin: 0 5px;
         cursor: pointer;
+        transition: background-color 0.3s ease;
     }
     
     .active-slide {
         background-color: #333;
+    }
+
+    /* CSS for slider */
+    .slider {
+        overflow: hidden;
+        position: relative;
+    }
+
+    .slider img {
+        max-height: 600px;
+        margin: auto;
+        transition: transform 0.5s ease;
     }
 </style>
 
@@ -40,7 +46,7 @@ categories:
         <div class="row">
             <!-- Image Slider Container -->
             <div class="slider">
-                <img id="slider-image" src="images/codesign_lab_may24.JPG" alt="CoDesign lab photo" style="max-height:600px; margin:auto">
+                <img id="slider-image" src="codesign_lab_may24.JPG" alt="CoDesign lab photo">
                 <div id="indicator" class="slide-indicators"></div>
             </div>
             <br>
@@ -170,41 +176,12 @@ categories:
 
 <div class="spacer"></div>
 
-<div class="row">
-    {% for project in site.data.projects limit:4 %}
-    <div class="col-md-3 reduced-gutter">
-        <div class="pad-left">
-            <div class="note">
-                <i class="fa fa-edit fa-fw"></i>
-                <a class="off" href="{{ project.url }}">
-                {{ project.title }} - {{ project.description }}
-                </a>
-            </div>
-            <div class="smallspacer"></div>
-            <div class="smallnote">
-                Updated
-                <a class="off" href="{{ project.commits.first.url }}">
-                {{ project.commits.first.date | date: "%-d %b %Y" }}
-                </a>
-                by
-                <a class="off" href="{{ project.commits.first.author_url }}">
-                {{ project.commits.first.author_login }}
-                </a>
-            </div>
-            <div class="bigspacer"></div>
-        </div>
-    </div>
-    {% endfor %}
-</div>
-
-<div class="spacer"></div>
-
 <script>
     // JavaScript for rotating images with indicators
     const images = [
-        "images/codesign_lab_may24.JPG",
-        "images/labphoto.JPG", // Add more image paths here
-        "images/codesign_lab_idetc23.jpg"
+        "codesign_lab_may24.JPG",
+        "another_image_1.JPG", // Add more image paths here
+        "another_image_2.JPG"
     ];
     let currentIndex = 0;
     const totalSlides = images.length;
@@ -232,7 +209,7 @@ categories:
 
     function goToSlide(index) {
         currentIndex = index;
-        sliderImage.src = images[currentIndex];
+        sliderImage.style.transform = `translateX(-${currentIndex * 100}%)`;
         updateIndicators();
     }
 
@@ -244,10 +221,9 @@ categories:
 
     function rotateImage() {
         currentIndex = (currentIndex + 1) % images.length;
-        sliderImage.src = images[currentIndex];
+        sliderImage.style.transform = `translateX(-${currentIndex * 100}%)`;
         updateIndicators();
     }
 
-    setInterval(rotateImage, 5000); // Change image every 3 seconds
+    setInterval(rotateImage, 3000); // Change image every 3 seconds
 </script>
-
