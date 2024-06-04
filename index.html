@@ -19,6 +19,9 @@ categories:
             <!-- Image Slider Container -->
             <div class="slider">
                 <img id="slider-image" src="images/codesign_lab_may24.JPG" alt="CoDesign lab photo" style="max-height:600px; margin:auto">
+                <div id="indicator" style="text-align: center; margin-top: 10px;">
+                    <span id="current-slide">1</span> / <span id="total-slides">3</span>
+                </div>
             </div>
             <br>
         </div>
@@ -175,19 +178,25 @@ categories:
 </div>
 
 <script>
-    // JavaScript for rotating images
+    // JavaScript for rotating images with indicators
     const images = [
         "images/codesign_lab_may24.JPG",
-        "images/codesign_lab_idetc23.jpg", // Add more image paths here
-        "images/labphoto.JPG"
+        "images/labphoto.JPG", // Add more image paths here
+        "images/codesign_lab_idetc23.jpg"
     ];
     let currentIndex = 0;
+    const totalSlides = images.length;
     const sliderImage = document.getElementById('slider-image');
+    const currentSlideIndicator = document.getElementById('current-slide');
+    const totalSlidesIndicator = document.getElementById('total-slides');
+    
+    totalSlidesIndicator.textContent = totalSlides;
 
     function rotateImage() {
         currentIndex = (currentIndex + 1) % images.length;
         sliderImage.src = images[currentIndex];
+        currentSlideIndicator.textContent = currentIndex + 1;
     }
 
-    setInterval(rotateImage, 3000); // Change image every 3 seconds
+    setInterval(rotateImage, 5000); // Change image every 3 seconds
 </script>
