@@ -4,7 +4,7 @@ title: Evaluating Design Rationale
 image: /images/papers/2024-IDETC-mirabito-comprationale.png
 authors: Mirabito Y, Liu X, and Goucher-Lambert K.
 year: 2024
-ref: Mirabito et al. <i>ASME IDETC</i> 2024
+ref: Mirabito, Liu, and Goucher-Lambert. <i>ASME IDETC</i> 2024
 journal: Proceedings of the ASME International Design Engineering Technical Conferences (2024).
 pdf: /pdfs/papers/mirabito-comprationale-idetc.pdf
 ---
