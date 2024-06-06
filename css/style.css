@@ -4604,6 +4604,7 @@ tbody.collapse.in {
 @media (min-width: 768px) {
     .navbar-static-top {
         border-radius:0; 
+	    background-color: #003262
     }
     }
 }
@@ -4900,7 +4901,7 @@ tbody.collapse.in {
 }
 
 .navbar-default .navbar-text {
-    color: #777
+    color: #fffff
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -4939,8 +4940,7 @@ tbody.collapse.in {
 }
 
 .navbar-default .navbar-nav>.open>a,.navbar-default .navbar-nav>.open>a:hover,.navbar-default .navbar-nav>.open>a:focus {
-    background-color: #e7e7e7;
-    color: #555
+        color: #555
 }
 
 @media (max-width: 767px) {
