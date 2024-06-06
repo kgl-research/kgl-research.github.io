@@ -4597,12 +4597,14 @@ tbody.collapse.in {
 
 .navbar-static-top {
     z-index: 1000;
-    border-width: 0 0 1px
+    border-width: 0 0 1px;
+	background-color: #003262; 
 }
 
 @media (min-width: 768px) {
     .navbar-static-top {
-        border-radius:0
+        border-radius:0; 
+    }
     }
 }
 
