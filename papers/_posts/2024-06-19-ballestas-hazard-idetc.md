@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Designing Remote Monitoring for Smart Manufacturing Facilities: Hazard Identification and Classification
+title: "Designing Remote Monitoring for Smart Manufacturing Facilities: Hazard Identification and Classification"
 image: /images/papers/2024-IDETC-ballestas-hazard.png
 authors: Ballestas C, Singh M, Vu D, Fillingim KB, and Goucher-Lambert K.
 year: 2024
