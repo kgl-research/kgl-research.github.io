@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Assessing the alignment between word representations in the brain and large language models 
+title: "Semantic properties of word prompts shape design outcomes: understanding the influence of semantic richness and similarity" 
 image: /images/papers/2024-dcc-nandy-semantic.png
 authors: Nandy A, Van M, Li J, Goucher-Lambert K, Klenk M, and Hakimi S.
 year: 2024
