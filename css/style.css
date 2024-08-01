@@ -4631,6 +4631,7 @@ tbody.collapse.in {
     bottom: 0;
     margin-bottom: 0;
     border-width: 1px 0 0;
+	background-color: #555555;
 }
 
 .navbar-brand {
