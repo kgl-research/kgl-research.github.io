@@ -4411,7 +4411,7 @@ tbody.collapse.in {
 
 .nav-pills>li.active>a,.nav-pills>li.active>a:hover,.nav-pills>li.active>a:focus {
     color: #fff;
-    background-color: #337ab7
+    background-color: #3B7EA1
 }
 
 .nav-stacked>li {
@@ -4641,7 +4641,7 @@ tbody.collapse.in {
     right: 0;
     width: 100%;
     margin-bottom: 0;
-    background-color: #555555;
+    background-color: #B6B6B6;
     z-index: 1030;
     border-width: 1px 0 0;
     border-radius: 0;
