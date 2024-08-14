@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations to Yakira Mirabito for completing his PhD!
+title: Congratulations to Yakira Mirabito for completing her PhD!
 author: Co-Design Lab
 ---
 
