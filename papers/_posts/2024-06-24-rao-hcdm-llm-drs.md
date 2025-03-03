@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Exploring human-centered design method selection strategies Exploring human-centered design method selection strategies with large language models with large language models 
+title: Exploring human-centered design method selection strategies with large language models 
 image: /images/papers/2024-drs-rao-hcdm-llm.png
 authors: Rao V, Zhu Y, Yang T, Kim E, Agogino A, and Goucher-Lambert K.
 year: 2024
