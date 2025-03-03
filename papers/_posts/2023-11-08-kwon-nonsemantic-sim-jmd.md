@@ -3,8 +3,8 @@ layout: paper
 title: Comparing and Evaluating Human and Computationally Derived Representations of Non-Semantic Design Information
 image: /images/papers/2023-JMD-kwon-sim.png
 authors: Kwon E, and Goucher-Lambert K.
-year: 2023
-ref: Kwon and Goucher-Lambert. <i>ASME J. Mech. Des.</i> 2023
+year: 2024
+ref: Kwon and Goucher-Lambert. <i>ASME J. Mech. Des.</i> 2024
 journal: "Journal of Mechanical Design 146(3)"
 pdf: /pdfs/papers/kwon-nonsemantic-sim-jmd.pdf
 doi: https://doi.org/10.1115/1.4063567
