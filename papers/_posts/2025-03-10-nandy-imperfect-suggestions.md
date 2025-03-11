@@ -1,7 +1,6 @@
-
 ---
 layout: paper
-title: Adopting “blackbox” engineering advice: the influence of imperfect suggestions during AI-assisted decision-making with multiple objectives
+title: "Adopting 'blackbox' engineering advice: the influence of imperfect suggestions during AI-assisted decision-making with multiple objectives"
 image: /images/papers/2025-AIEDAM-nandy-imperfect-suggestions.png
 authors: Nandy A, Herrera DA, and Goucher-Lambert K.
 year: 2025
@@ -9,7 +8,7 @@ ref: Nandy, Herrera, and Goucher-Lambert. <i>AI EDAM</i> 2025
 journal: Artificial Intelligence for Engineering Design, Analysis and Manufacturing (2025).
 pdf: /pdfs/papers/nandy-imperfect-advice-aiedam.pdf
 doi: 10.1017/S0890060425000034
----	
+---
 
 # Abstract	
 
