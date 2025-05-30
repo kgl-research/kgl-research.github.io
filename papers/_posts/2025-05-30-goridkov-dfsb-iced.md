@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Harnessing digital vs physical design for sustainable behavior strategies: A review"
-image: /images/papers/2025-ICED-goridkov-DFSB.pdf
+image: /images/papers/2025-ICED-goridkov-DFSB.png
 authors: Goridkov N and Goucher-Lambert K.
 year: 2025
 ref: Goridkov and Goucher-Lambert. <i>Proceedings of the ICED Conference</i> 2025
