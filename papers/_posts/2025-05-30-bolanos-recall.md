@@ -2,9 +2,9 @@
 layout: paper
 title: "RECALL-MM: A Multimodal Dataset of Consumer Product Recalls for Risk Analysis using Computational Methods and Large Language Models"
 image: /images/papers/2025-IDETC-bolanos-recall.png
-authors: Bolanos D, Ataei M, Grandi D, and Goucher-Lambert K.
+authors: Bolaños D, Ataei M, Grandi D, and Goucher-Lambert K.
 year: 2025
-ref: Bolanos et al. <i>ASME IDETC</i> 2025
+ref: Bolaños et al. <i>ASME IDETC</i> 2025
 journal: Proceedings of the ASME International Design Engineering Technical Conferences (2025).
 pdf: /pdfs/papers/bolanos-recall-idetc.pdf
 ---
