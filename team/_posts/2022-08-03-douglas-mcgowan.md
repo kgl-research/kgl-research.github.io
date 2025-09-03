@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Douglas McGwoan
+title: Douglas McGowan
 position: PhD student
 handle: douglas
 email: dpm5970@berkeley.edu
