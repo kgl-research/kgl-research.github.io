@@ -2,7 +2,7 @@
 layout: paper
 title: "Reflective Resistance: Probing Behavioral Responses to the Environmental Impacts of Generative AI through Physical and Digital Interventions"
 image: /images/papers/2026-IDETC-goridkov-rr.jpeg
-authors: Goridkov N, Yuh A, Bolanos D, and Goucher-Lambert K.
+authors: Goridkov N, Yuh A, Bolaños D, and Goucher-Lambert K.
 year: 2026
 ref: Goridkov et al. <i>ASME IDETC</i> 2026
 journal: Proceedings of the ASME International Design Engineering Technical Conferences (2026).
