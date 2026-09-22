@@ -2,7 +2,7 @@
 layout: paper
 title: Generative AI for Classification, Prediction, and Discovery of Consumer Product Recalls
 image: /images/papers/2026-JCISE-bolanos-recalls.png
-authors: Bolaños D, Ataei M, Grandi D, and Goucher-Lambert K.
+authors: Bolanos D, Ataei M, Grandi D, and Goucher-Lambert K.
 year: 2026
 ref: Bolaños et al. <i>ASME J. Comput. Inf. Sci. Eng. </i> 2026
 journal: Journal of Computing and Information Science in Engineering
